@@ -2,8 +2,9 @@
 
 An image caption generator model using Deep Learning and Natural Language Processing (NLP). This project trains a captioning model on the Flickr8k dataset (8,000 images + captions) and can generate short natural-language captions for input images by combining a CNN-based feature extractor with an LSTM-based language model.
 
+
 <p align="center">
-  <img src="img(1).png" alt="Sample Image" width="200"/>
+  <img src="img(1).png" alt="Sample Image" width="400"/>
 </p>
 
 ## Project overview
